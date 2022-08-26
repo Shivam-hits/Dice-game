@@ -1,0 +1,24 @@
+body{
+    background-color: #393E46;
+    color:#4ECCA3;
+    font-family: 'sacramento' ,Arial, Helvetica, sans-serif;
+    text-align: center; /*to aline every thing in between*/ 
+}
+h1{
+    font-family: 'sacramento' ,Arial, Helvetica, sans-serif;
+    font-size: 8rem;
+    margin:50px ;
+}
+h2{
+    font-family: 'sacramento' ,Arial, Helvetica, sans-serif;
+}
+.dice{
+    display: inline-block;
+}
+img {
+    width: 80%;
+}
+p{
+    font-size: 4rem;
+    margin-top: 30px;
+}
